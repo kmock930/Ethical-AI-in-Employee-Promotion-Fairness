@@ -8,7 +8,7 @@
 1. Should we automate decisions that shape people’s futures — and if so, how can we do it fairly?
 2. How can we ensure those automated systems make decisions that are trustable enough?
 ## Models in Use
-### The Baseline Model
+### The Baseline Model - MLP Classifier
 ![Baseline Model Results](./Model%20Comparison%20-%20General.png)
 ### The K-Means Method
 ![K-Means Method Results](./Model%20Comparison%20-%20KMeans%20Clustering.png)
