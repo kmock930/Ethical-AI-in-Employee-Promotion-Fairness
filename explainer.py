@@ -3,6 +3,16 @@ from lime.lime_text import LimeTextExplainer
 from lime.lime_tabular import LimeTabularExplainer
 
 class LIMEExplainer:
+    """
+    LIME Explainer for Tabular and Text Data
+    This class is used to explain the predictions of a model using LIME (Local Interpretable Model-agnostic Explanations).
+
+    Args:
+        model: The model to be explained.
+        feature_names: The names of the features in the dataset.
+    
+    Author: Kelvin Mock     
+    """
     def __init__(self, model, feature_names):
         self.model = model
         self.feature_names = feature_names
