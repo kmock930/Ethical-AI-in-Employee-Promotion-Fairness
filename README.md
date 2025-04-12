@@ -1,4 +1,5 @@
 # Fairness in AI-Powered Employee Promotion Systems
+## [Project Overview](./5195_pre_final.pdf)
 ## Problem Statement
 * AI is increasingly used to assist promotion decisions.
 * These systems often learn from biased historical data.
